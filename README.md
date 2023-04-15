@@ -1,5 +1,5 @@
 # AlloyAnalyzerPlusIDE
-`Alloy Analyzer Plus IDE` is an extension to the [Alloy Analyzer](https://github.com/AlloyTools/org.alloytools.alloy) that provies built it support to test and debug models.
+`Analyzer Plus IDE` is an extension to the [Alloy Analyzer](https://github.com/AlloyTools/org.alloytools.alloy) that provies built it support to test and debug models.
 
 # Requirements:
 
@@ -7,13 +7,13 @@
   - Linux (64 bit)
 
 # Folders in this repository
-* "Jar" - Hawkeye's standalone executable jar file
+* "Jar" - `Analyzer Plus IDE`'s standalone executable jar file
 * "Code" - Source code for Hawkeye
 * "Model" - Models used in our evaluation and case study
 
 # Installation:
 `Alloy Analyzer Plus IDE` is available as a pre-compiled executable jar file under the folder "Jar"
-Additionally, `Alloy Analyzer Plus IDE` can be built and compiled. If compiling `Alloy Analyzer Plus IDE`, it is recommended you follow the installation instructions outlined [here](https://github.com/AlloyTools/org.alloytools.alloy) and reproduced below for convenience. Since `Alloy Analyzer Plus IDE` builds on the Analyzer, it requires the user to set up and install the Analyzer's code base.
+Additionally, `Analyzer Plus IDE` can be built and compiled. If compiling `Analyzer Plus IDE`, it is recommended you follow the installation instructions outlined [here](https://github.com/AlloyTools/org.alloytools.alloy) and reproduced below for convenience. Since `Analyzer Plus IDE` builds on the Analyzer, it requires the user to set up and install the Analyzer's code base.
 
 ## Building Alloy
 
