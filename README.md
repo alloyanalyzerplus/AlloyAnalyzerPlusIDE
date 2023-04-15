@@ -12,7 +12,7 @@
 * "Model" - Models used in our evaluation and case study
 
 # Installation:
-`Alloy Analyzer Plus IDE` is available as a pre-compiled executable jar file under the folder "Jar"
+`Analyzer Plus IDE` is available as a pre-compiled executable jar file under the folder "Jar"
 Additionally, `Analyzer Plus IDE` can be built and compiled. If compiling `Analyzer Plus IDE`, it is recommended you follow the installation instructions outlined [here](https://github.com/AlloyTools/org.alloytools.alloy) and reproduced below for convenience. Since `Analyzer Plus IDE` builds on the Analyzer, it requires the user to set up and install the Analyzer's code base.
 
 ## Building Alloy
